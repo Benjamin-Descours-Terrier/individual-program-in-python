@@ -1,5 +1,4 @@
 # This a basic CLI calculator in Python
-# All rights reserved © 2025, DESCOURS--TERRIER Benjamin
 while True:
     Number_1 = float(input("A first number please ? "))
     Number_2 = float(input("A second number please ? "))
